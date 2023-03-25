@@ -1,0 +1,17 @@
+C:\Users\Vishal.Khetavat\source\repos\Application_Using_Entity_FrameWork\EntityClass\obj\Debug\EntityClass.csproj.AssemblyReference.cache
+C:\Users\Vishal.Khetavat\source\repos\Application_Using_Entity_FrameWork\EntityClass\obj\Debug\EntityClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vishal.Khetavat\source\repos\Application_Using_Entity_FrameWork\EntityClass\obj\Debug\EntityClass.csproj.CoreCompileInputs.cache
+C:\Users\Vishal.Khetavat\source\repos\Application_Using_Entity_FrameWork\EntityClass\bin\Debug\EntityClass.exe.config
+C:\Users\Vishal.Khetavat\source\repos\Application_Using_Entity_FrameWork\EntityClass\bin\Debug\EntityClass.exe
+C:\Users\Vishal.Khetavat\source\repos\Application_Using_Entity_FrameWork\EntityClass\bin\Debug\EntityClass.pdb
+C:\Users\Vishal.Khetavat\source\repos\Application_Using_Entity_FrameWork\EntityClass\bin\Debug\Database3.dll
+C:\Users\Vishal.Khetavat\source\repos\Application_Using_Entity_FrameWork\EntityClass\bin\Debug\Validation.exe
+C:\Users\Vishal.Khetavat\source\repos\Application_Using_Entity_FrameWork\EntityClass\bin\Debug\EntityFramework.dll
+C:\Users\Vishal.Khetavat\source\repos\Application_Using_Entity_FrameWork\EntityClass\bin\Debug\Database3.pdb
+C:\Users\Vishal.Khetavat\source\repos\Application_Using_Entity_FrameWork\EntityClass\bin\Debug\Database3.dll.config
+C:\Users\Vishal.Khetavat\source\repos\Application_Using_Entity_FrameWork\EntityClass\bin\Debug\Validation.pdb
+C:\Users\Vishal.Khetavat\source\repos\Application_Using_Entity_FrameWork\EntityClass\bin\Debug\Validation.exe.config
+C:\Users\Vishal.Khetavat\source\repos\Application_Using_Entity_FrameWork\EntityClass\bin\Debug\EntityFramework.xml
+C:\Users\Vishal.Khetavat\source\repos\Application_Using_Entity_FrameWork\EntityClass\obj\Debug\EntityClass.csproj.CopyComplete
+C:\Users\Vishal.Khetavat\source\repos\Application_Using_Entity_FrameWork\EntityClass\obj\Debug\EntityClass.exe
+C:\Users\Vishal.Khetavat\source\repos\Application_Using_Entity_FrameWork\EntityClass\obj\Debug\EntityClass.pdb
