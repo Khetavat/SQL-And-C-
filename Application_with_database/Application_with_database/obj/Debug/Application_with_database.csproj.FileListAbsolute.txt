@@ -1,0 +1,11 @@
+C:\Users\Vishal.Khetavat\source\repos\Application_with_database\Application_with_database\bin\Debug\Application_with_database.exe.config
+C:\Users\Vishal.Khetavat\source\repos\Application_with_database\Application_with_database\bin\Debug\Application_with_database.exe
+C:\Users\Vishal.Khetavat\source\repos\Application_with_database\Application_with_database\bin\Debug\Application_with_database.pdb
+C:\Users\Vishal.Khetavat\source\repos\Application_with_database\Application_with_database\obj\Debug\Application_with_database.csproj.AssemblyReference.cache
+C:\Users\Vishal.Khetavat\source\repos\Application_with_database\Application_with_database\obj\Debug\Application_with_database.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vishal.Khetavat\source\repos\Application_with_database\Application_with_database\obj\Debug\Application_with_database.csproj.CoreCompileInputs.cache
+C:\Users\Vishal.Khetavat\source\repos\Application_with_database\Application_with_database\obj\Debug\Application_with_database.exe
+C:\Users\Vishal.Khetavat\source\repos\Application_with_database\Application_with_database\obj\Debug\Application_with_database.pdb
+C:\Users\Vishal.Khetavat\source\repos\Application_with_database\Application_with_database\bin\Debug\Dapper.dll
+C:\Users\Vishal.Khetavat\source\repos\Application_with_database\Application_with_database\bin\Debug\Dapper.xml
+C:\Users\Vishal.Khetavat\source\repos\Application_with_database\Application_with_database\obj\Debug\Application_with_database.csproj.CopyComplete
